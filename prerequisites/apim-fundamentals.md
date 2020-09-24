@@ -23,4 +23,5 @@ Having the following software installed, could improve the training experience:
 * Azure CLI (download [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli))
 * Visual Studio Code
     * Azure API Management extension (download [here](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-apimanagement))
+    * REST Client extension(download [here]{https://marketplace.visualstudio.com/items?itemName=humao.rest-client})
     * ARM Template Viewer extensions (download [here](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview))
