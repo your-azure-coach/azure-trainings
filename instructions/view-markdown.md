@@ -10,11 +10,11 @@
 
 * Select the root folder of the training package and click **Select Folder**
 
-![](media\select-folder.png)
+![](.\media\select-folder.png)
 
 * On the left-hand side, you can navigate through the demos, labs and presentation
 
-![](media\navigation.png)
+![](./media/navigation.png)
 
 * Open one of the *lab-instructions.md* files
 
