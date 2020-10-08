@@ -1,8 +1,10 @@
 # How to view the lab instructions?
 
-> The training will provide you the download link for the training package
+> The trainer will provide you the download link for the training package
 
-* The lab instructions are written in *Markdown*. 
+* Download and unzip the training package
+
+* The lab instructions are written in *Markdown*
 
 * Open **Visual Studio Code**
 
