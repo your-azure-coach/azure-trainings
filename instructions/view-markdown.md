@@ -10,17 +10,17 @@
 
 * Select the root folder of the training package and click **Select Folder**
 
-![](.media\select-folder.png)
+![](media\select-folder.png)
 
 * On the left-hand side, you can navigate through the demos, labs and presentation
 
-![](.media\navigation.png)
+![](media\navigation.png)
 
-* Open one of the *lab-instructions.md* file
+* Open one of the *lab-instructions.md* files
 
 * Press `F1` and type "markdown preview".  Choose `Markdown: Open Preview` 
 
-![](.media\markdown.png)
+![](media\markdown.png)
 
 * The lab instructions are now nicely rendered in Visual Studio Code
 
